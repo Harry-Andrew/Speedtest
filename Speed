@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#Credit goes to Matt Martz for this code
+
 import os
 import re
 import csv
